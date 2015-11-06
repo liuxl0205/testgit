@@ -4,5 +4,4 @@ git is under the GPL!
 git has mutable index called stage.
 git tracks changes.
 
-create a new branch is quick &&&&& simple.
-
+create a new branch is quick and sdf simple.
