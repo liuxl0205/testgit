@@ -5,3 +5,7 @@ git has mutable index called stage.
 git tracks changes.
 
 create a new branch is quick and sdf simple.
+
+merge dev
+
+add merge
