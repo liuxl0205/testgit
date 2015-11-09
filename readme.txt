@@ -8,4 +8,4 @@ create a new branch is quick and sdf simple.
 
 merge dev
 
-add merge
+add merge test --no-ff 
