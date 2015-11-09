@@ -11,3 +11,7 @@ merge dev
 add merge test --no-ff
 
 add dev modify  will merge?
+
+wroking... but somthing to do git stash.
+
+ok git stash done.
