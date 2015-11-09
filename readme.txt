@@ -1,4 +1,4 @@
-git is a free software!
+git is A free software!
 git is a distrabuted version control system!
 git is under the GPL!
 git has mutable index called stage.
